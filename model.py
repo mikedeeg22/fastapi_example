@@ -1,7 +1,6 @@
 # 1. Library imports
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
-from sklearn import datasets
 from pydantic import BaseModel
 import joblib
 
